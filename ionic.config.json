@@ -1,0 +1,7 @@
+{
+  "name": "moonlight",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
